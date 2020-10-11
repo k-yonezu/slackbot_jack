@@ -1,2 +1,2 @@
 slackbot
-dotenv
+python-dotenv
